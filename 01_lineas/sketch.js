@@ -5,7 +5,7 @@ function setup() {
 }
 
 function draw() {
-  //line(30,20,185,185);
+  //izquierdo
   stroke(0);
   line(30,20,185,20);
   stroke(126);
